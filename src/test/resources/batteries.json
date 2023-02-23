@@ -1,0 +1,22 @@
+[
+  {
+    "name": "battery c",
+    "watt_capacity": 110,
+    "post_code": 1
+  },
+  {
+    "name": "battery b",
+    "watt_capacity": 110,
+    "post_code": 2
+  },
+  {
+    "name": "battery a",
+    "watt_capacity": 110,
+    "post_code": 3
+  },
+  {
+    "name": "battery d",
+    "watt_capacity": 110,
+    "post_code": 4
+  }
+]
